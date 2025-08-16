@@ -1,3 +1,9 @@
+This repository contains my practice notebooks as I strengthen my core Python skills.
+Covers variables, data types, lists, tuples, sets, and dictionaries
+Includes examples of loops, conditionals, and functions
+A solid foundation for future learning in data analysis, automation, and more.
+
+
 NumPy Practice
 
 Practicing NumPy to build a strong foundation in Python.
